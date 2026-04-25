@@ -1,15 +1,1 @@
 # bikepartsfinder
-{
-  "name": "bikepartsfinder",
-  "version": "1.0.0",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js"
-  },
-  "dependencies": {
-    "express": "^4.18.2",
-    "stripe": "^14.5.0",
-    "cors": "^2.8.5"
-  }
-}
